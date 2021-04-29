@@ -10,7 +10,7 @@ lateinit var reset: Button
 
 The initialization is done with the cast method
 
-‍‍```
+```
 fun Cast() {
 
         avi = findViewById(R.id.avi_SplashScreen_loading)
@@ -20,11 +20,16 @@ fun Cast() {
     }
 ```
 
+
+
 Check the Internet connection with the is Network method
+
 
 > If the Internet is connected, enter the MainActivity activity
 
+
 > Otherwise, show that the Internet is not connected and show the test button again
+
 
 ```
 fun isNetwork() {
@@ -50,11 +55,16 @@ fun isNetwork() {
     }
 ```
 
+
 Set the internet button to click again
+
 
 > Hide and load button Show text Please wait and show
 
+
 > Log in to MainActivity if the connection is established
+
+
 
 ```
 fun onClickReset() {
@@ -72,3 +82,4 @@ fun onClickReset() {
         }
     }
 ```
+
