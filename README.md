@@ -17,7 +17,7 @@ Folder structure
    ``README All App``
  
 1.activity
- + [MainActivity.kt]()
+ + [MainActivity.kt](https://github.com/alirezabashi98/My-App/blob/master/MainActivity)
  + [SplashScreen.kt]()
  
 2.adapter
