@@ -12,7 +12,10 @@
         android:layout_height="wrap_content"
         android:text="Loading..."
         android:textStyle="bold"
-        android:textSize="20dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -30,5 +33,16 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_SplashScreen_message"
         app:layout_constraintVertical_bias="0.07999998" />
+
+    <Button
+        android:id="@+id/btn_SplashScreen_reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="try again"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/avi_SplashScreen_loading" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
