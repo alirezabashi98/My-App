@@ -5,11 +5,13 @@ Folder structure
 ```
 .
 ├── activity
-│   ├── [MainActivity.kt]()
-│   └── [SplashScreen.kt]()
+│   ├── MainActivity.kt
+│   └── SplashScreen.kt
 ├── adapter
 └── utility
-    └── [CheckedNetwork.kt]()
+    └── CheckedNetwork.kt
+
+
    ``` 
    
    ``README All App``
