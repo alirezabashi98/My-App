@@ -1,6 +1,6 @@
-# My-App
+# My-App :sunglasses:
 
-[download demo](https://github.com/alirezabashi98/My-App/raw/master/app-demo.apk)
+:small_red_triangle_down: [download demo](https://github.com/alirezabashi98/My-App/raw/master/app-demo.apk) 
 
 Folder structure
 
@@ -16,7 +16,7 @@ Folder structure
 
    ``` 
    
-   ``README All App``
+   ``README All App`` :octocat:
  
 :file_folder: 1.activity
  + [MainActivity.kt](https://github.com/alirezabashi98/My-App/blob/master/README/activity/MainActivity.md)
