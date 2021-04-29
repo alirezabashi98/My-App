@@ -22,6 +22,6 @@ Folder structure
  
 2.adapter
 
-4.utility
+3.utility
  + [CheckedNetwork.kt](https://github.com/alirezabashi98/My-App/blob/master/README/utility/CheckedNetwork.md)
  
