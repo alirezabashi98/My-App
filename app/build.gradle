@@ -48,4 +48,8 @@ dependencies {
     implementation 'com.squareup.retrofit2:retrofit:1.6.0'
     implementation 'com.squareup.retrofit2:converter-gson:1.6.0'
 
+    // AVLoadingIndicatorView
+    // https://github.com/81813780/AVLoadingIndicatorView
+    implementation 'com.wang.avi:library:2.1.3'
+
 }
