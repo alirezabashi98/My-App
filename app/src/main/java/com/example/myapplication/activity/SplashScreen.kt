@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.activity
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,6 +7,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import com.example.myapplication.R
 import com.example.myapplication.utility.CheckedNetwork
 import com.wang.avi.AVLoadingIndicatorView
 
@@ -38,6 +39,7 @@ class SplashScreen : AppCompatActivity() {
 
     }
 
+    //        Check your internet connection
     fun isNetwork() {
 
 
@@ -60,6 +62,7 @@ class SplashScreen : AppCompatActivity() {
 
     }
 
+    //        When you click the button
     fun onClickReset() {
         reset.setOnClickListener {
 
