@@ -1,6 +1,6 @@
 # My-App
 
-README All App
+Folder structure
 
 ```
 .
@@ -12,3 +12,14 @@ README All App
     └── [CheckedNetwork.kt]()
    ``` 
    
+   ``README All App``
+ 
+1.activity
+ + [MainActivity.kt]()
+ + [SplashScreen.kt]()
+ 
+2.adapter
+
+4.utility
+ + [CheckedNetwork.kt]()
+ 
